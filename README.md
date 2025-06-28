@@ -111,11 +111,6 @@ sudo systemctl restart apache2
 
 ---
 
-## 📷 Screenshot Preview
-
-*(Optional - attach this in GitHub README)*&#x20;
-
----
 
 ## 📁 To-Do / Extensions
 
