@@ -5,9 +5,9 @@ if (!isset($_SESSION['user'])) {
     exit();
 }
 
-$host = '20.192.30.92';
-$user = 'admin';
-$pass = 'admin';
+$host = 'ip';
+$user = 'username';
+$pass = 'password';
 $db = 'aethergrid';
 
 $conn = new mysqli($host, $user, $pass, $db);
