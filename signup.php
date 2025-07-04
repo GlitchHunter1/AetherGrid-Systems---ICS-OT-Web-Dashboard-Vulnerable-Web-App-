@@ -3,9 +3,9 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // DB Config
-$host = "ip";
-$user = "username";
-$pass = "password";
+$host = "20.192.30.92";
+$user = "admin";
+$pass = "admin";
 $db = "aethergrid";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
