@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-$host = 'ip';
-$user = 'username';
-$pass = 'password';
+$host = '20.192.30.92';
+$user = 'admin';
+$pass = 'admin';
 $db = 'aethergrid';
 
 $conn = new mysqli($host, $user, $pass, $db);
