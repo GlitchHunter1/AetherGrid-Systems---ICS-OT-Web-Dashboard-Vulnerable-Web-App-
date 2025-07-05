@@ -17,7 +17,6 @@ This vulnerable PHP-MySQL web dashboard simulates a typical OT corporate interfa
 ├── login.php           # Handles login requests
 ├── dashboard.php       # Simulated user dashboard for actions
 ├── logout.php          # Terminates session
-├── config.php          # DB connection config
 ├── actions.log
 ├── error.log
 ├── access.log          # Application log file
