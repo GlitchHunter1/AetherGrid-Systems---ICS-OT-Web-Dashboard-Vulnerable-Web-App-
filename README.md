@@ -21,7 +21,6 @@ This vulnerable PHP-MySQL web dashboard simulates a typical OT corporate interfa
 ├── actions.log
 ├── error.log
 ├── access.log          # Application log file
-└── css/                # Optional styling folder
 ```
 
 ---
